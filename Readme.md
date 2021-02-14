@@ -2,7 +2,7 @@
 
 > This is Spring Boot Postgresql Example
 >
-<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/main/images/spring-boot-docker-postgresql-examle.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
+<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/master/images/spring-boot-docker-postgresql-examle.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
 
 ## Prerequisites
 
