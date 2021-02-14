@@ -2,7 +2,7 @@
 
 > This is Spring Boot Postgresql Example
 >
-<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/main/images/spring-boot-postgresql-example.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
+<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/main/images/spring-boot-docker-postgresql-examle.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
 
 ## Prerequisites
 
@@ -28,4 +28,4 @@ docker-compose up -d
 
 http://localhost:8080/swagger-ui/index.html?configUrl=/api-docs/swagger-config#/
 
-<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/main/images/spring-boot-postgresql-openapi3.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
+<img src="https://github.com/mhmmderen3/Spring-Boot-Postgresql-Docker/blob/master/images/spring-boot-postgresql-openapi3.png" alt="Spring Boot Postgresql" width="100%" height="100%"/> 
